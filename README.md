@@ -1,4 +1,5 @@
-### Hi there 👋
+I am currently a senior in the Fisher College of Business at The Ohio State University specializing in Management Information Systems.  
+  I have just created my Github account, and am working on familiarizing myself with the layout and working on beginner projects!
 
 <!--
 **cooperlillquist/cooperlillquist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
