@@ -1,4 +1,4 @@
-I am currently a senior in the Fisher College of Business at The Ohio State University specializing in Management Information Systems.  
+I am currently a graduate student at KEDGE Business School in Bordeaux, France studying Data Analytics for Business.  
   I have just created my Github account, and am working on familiarizing myself with the layout and working on beginner projects!
 
 <!--
